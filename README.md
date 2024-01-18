@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harmandeep Kahlon
+- 👋 Hi, I’m @Harmandeep Singh Kahlon
 - 👀 I’m interested in learning cloud technologies.
 - 🌱 I’m currently learning Linux,AWS etc.
 - 💞️ I’m looking to collaborate on DIY projects.
